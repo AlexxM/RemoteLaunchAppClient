@@ -1,0 +1,25 @@
+C:\SharpDevelopPortable\Data\SharpDevelop Projects\RemouteLaunchAppClient\RemouteLaunchAppClient\bin\Debug\RemouteLaunchAppClient.exe.config
+C:\SharpDevelopPortable\Data\SharpDevelop Projects\RemouteLaunchAppClient\RemouteLaunchAppClient\bin\Debug\RemouteLaunchAppClient.exe
+C:\SharpDevelopPortable\Data\SharpDevelop Projects\RemouteLaunchAppClient\RemouteLaunchAppClient\bin\Debug\RemouteLaunchAppClient.pdb
+C:\SharpDevelopPortable\Data\SharpDevelop Projects\RemouteLaunchAppClient\RemouteLaunchAppClient\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\SharpDevelopPortable\Data\SharpDevelop Projects\RemouteLaunchAppClient\RemouteLaunchAppClient\obj\x86\Debug\RemouteLaunchAppClient.MainForm.resources
+C:\SharpDevelopPortable\Data\SharpDevelop Projects\RemouteLaunchAppClient\RemouteLaunchAppClient\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\SharpDevelopPortable\Data\SharpDevelop Projects\RemouteLaunchAppClient\RemouteLaunchAppClient\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\SharpDevelopPortable\Data\SharpDevelop Projects\RemouteLaunchAppClient\RemouteLaunchAppClient\obj\x86\Debug\RemouteLaunchAppClient.exe
+C:\SharpDevelopPortable\Data\SharpDevelop Projects\RemouteLaunchAppClient\RemouteLaunchAppClient\obj\x86\Debug\RemouteLaunchAppClient.pdb
+F:\C#\SharpDevelopPortable\Data\SharpDevelop Projects\RemouteLaunchAppClient\RemouteLaunchAppClient\bin\Debug\RemouteLaunchAppClient.exe.config
+F:\C#\SharpDevelopPortable\Data\SharpDevelop Projects\RemouteLaunchAppClient\RemouteLaunchAppClient\obj\x86\Debug\RemouteLaunchAppClient.exe
+F:\C#\SharpDevelopPortable\Data\SharpDevelop Projects\RemouteLaunchAppClient\RemouteLaunchAppClient\obj\x86\Debug\RemouteLaunchAppClient.pdb
+F:\C#\SharpDevelopPortable\Data\SharpDevelop Projects\RemouteLaunchAppClient\RemouteLaunchAppClient\bin\Debug\RemouteLaunchAppClient.exe
+F:\C#\SharpDevelopPortable\Data\SharpDevelop Projects\RemouteLaunchAppClient\RemouteLaunchAppClient\bin\Debug\RemouteLaunchAppClient.pdb
+F:\C#\SharpDevelopPortable\Data\SharpDevelop Projects\RemouteLaunchAppClient\RemouteLaunchAppClient\obj\x86\Debug\RemouteLaunchAppClient.MainForm.resources
+F:\C#\SharpDevelopPortable\Data\SharpDevelop Projects\RemouteLaunchAppClient\RemouteLaunchAppClient\obj\x86\Debug\RemouteLaunchAppClient.csproj.GenerateResource.Cache
+C:\SharpDevelopPortable\Data\SharpDevelop Projects\RemouteLaunchAppClient\RemouteLaunchAppClient\obj\x86\Debug\RemouteLaunchAppClient.SelectHostForm.resources
+C:\tempMyDoc\Visual Studio 2010\Projects\RemouteLaunchAppClient\RemouteLaunchAppClient\obj\x86\Debug\RemouteLaunchAppClient.csproj.GenerateResource.Cache
+C:\tempMyDoc\Visual Studio 2010\Projects\RemouteLaunchAppClient\RemouteLaunchAppClient\obj\x86\Debug\RemoteLaunchAppClient.MainForm.resources
+C:\tempMyDoc\Visual Studio 2010\Projects\RemouteLaunchAppClient\RemouteLaunchAppClient\obj\x86\Debug\RemoteLaunchAppClient.SelectHostForm.resources
+C:\tempMyDoc\Visual Studio 2010\Projects\RemouteLaunchAppClient\RemouteLaunchAppClient\bin\Debug\RemoteLaunchAppClient.exe.config
+C:\tempMyDoc\Visual Studio 2010\Projects\RemouteLaunchAppClient\RemouteLaunchAppClient\bin\Debug\RemoteLaunchAppClient.exe
+C:\tempMyDoc\Visual Studio 2010\Projects\RemouteLaunchAppClient\RemouteLaunchAppClient\bin\Debug\RemoteLaunchAppClient.pdb
+C:\tempMyDoc\Visual Studio 2010\Projects\RemouteLaunchAppClient\RemouteLaunchAppClient\obj\x86\Debug\RemoteLaunchAppClient.exe
+C:\tempMyDoc\Visual Studio 2010\Projects\RemouteLaunchAppClient\RemouteLaunchAppClient\obj\x86\Debug\RemoteLaunchAppClient.pdb
